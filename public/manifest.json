@@ -1,7 +1,12 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
+  "short_name": "Moke Travel",
+  "name": "Moke Travel - Ultimate Travel guide",
+  "description": "Ultimate Travel guide",
+  "strat_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_"
+
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
